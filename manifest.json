@@ -1,9 +1,9 @@
 {
   "format_version": 2,
   "header": {
-    "name": "[1.21.90]Nickname Addon",
+    "name": "[1.21.100]Nickname Addon",
     "description": "BetaAPIsを有効にする必要があります",
-    "uuid": "1a4fbcb0-d70c-0098-b1ac-ebc52310cf6e",
+    "uuid": "f8e9a7b2-3c4d-5e6f-9a8b-7c6d5e4f3a2b",
     "version": [0, 1, 0],
     "min_engine_version": [1, 13, 0]
   },
@@ -11,7 +11,7 @@
     {
       "description": "GameTest module",
       "type": "script",
-      "uuid": "5231ca3a-0b2b-107e-8ac2-e1ea2a24523d",
+      "uuid": "9b8c7d6e-5f4a-3b2c-1d0e-9f8e7d6c5b4a",
       "version": [0, 1, 0],
       "entry": "scripts/nick.js"
     }
@@ -19,7 +19,7 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "2.1.0-beta"
+      "version": "2.2.0-beta"
     }
   ]
 }
